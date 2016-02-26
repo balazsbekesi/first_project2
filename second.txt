@@ -1,11 +1,3 @@
-Other file
+Second.txt
+Cleaned up.
 
-and something new
-.
-sdfs
-
-feature 
-
-2.
-
-feature 300
