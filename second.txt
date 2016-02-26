@@ -3,4 +3,5 @@ Other file
 and something new
 .
 sdfs
-.
+
+feature 2.
